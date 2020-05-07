@@ -1,0 +1,8 @@
+{
+    "excel": ".xlsx?$",
+    "word": ".docx?$", 
+    "powerpoint": ".pptx?$",
+    "pdf": ".pdf$",
+    "text": ".txt$",
+    "json": ".json?$"
+}
