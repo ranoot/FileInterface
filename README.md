@@ -1,2 +1,2 @@
 # FileInterface
-An interface for you to find files and request the use for the files
+An interface for you to find files and request the file name of a file
